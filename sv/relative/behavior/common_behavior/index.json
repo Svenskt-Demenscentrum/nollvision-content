@@ -1,0 +1,10 @@
+[
+  { "key": "vandrarochplockar-behavior", "title": "Vandrar och plockar", "image": "/all/situation/1-thumb.jpg" },
+  { "key": "somnstorningar-behavior", "title": "Sömnstörningar", "image": "/all/situation/P-bild7.jpg" },
+    { "key": "upprordocharg-behavior", "title": "Upprörd och arg", "image": "/all/situation/1-thumb_behaviour.jpg" },
+    { "key": "apatiskochlikgiltig-behavior", "title": "Apatisk och likgiltig", "image": "/all/situation/P-bild9.jpg" },
+    { "key": "aterdaligt-behavior", "title": "Äter dåligt", "image": "/all/situation/mat.jpg" },
+    { "key": "roparochskriker-behavior", "title": "Ropar och skriker", "image": "/all/situation/P-skriker.jpg" },
+    { "key": "hallucinationer-behavior", "title": "Hallucinationer", "image": "/all/situation/P-bild6.jpg" },
+    { "key": "vanforestallningar-behavior", "title": "Vanföreställningar", "image": "/all/situation/P-bild-vanforestallning.jpg" }
+]
