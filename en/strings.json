@@ -13,7 +13,7 @@
   "language_sv": "Swedish",
   "language_system": "Automatic (device language)",
 
-  "mode_relative": "Caregiver",
+  "mode_relative": "family/friend",
   "mode_staff": "Staff",
 
   "error_no_internet": "Error getting content (unable to reach server)",
@@ -34,7 +34,7 @@
   
 
   "----- Sektioner (rubriker/titlar) -----": "",
-  "relative_home_title": "Home - Caregiver",
+  "relative_home_title": "Home - family/friend",
   "staff_home_title": "Home - Staff",
   "situation_title": "Situations",
   "situation_staff_title": "Challenges",
